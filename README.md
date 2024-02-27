@@ -22,7 +22,7 @@ de chaque lettre initiale.
 
 ## Général
 1) Quel est l’environnement à installer pour exécuter un script PHP ? Citer 2 exemples de logiciels 
-permettant ce contexte
+permettant ce contexte.
 2) Qu’est-ce qu’un algorithme ?
 3) Qu’est-ce qu’une variable ? Par quel symbole est préfixée une variable en PHP ?
 4) Qu’est-ce que la portée d’une variable ?
@@ -51,6 +51,7 @@ exemple d’utilisation en PHP
 3) Définir JavaScript
 > JavaScript est un langage de programmation.
 4) Définir JSON. Dans quel contexte ce format est-il utilisé ?
+> JSON est une structure utilisée pour conserver des données, utilisé donc en base de donnée.
 5) Peut-on interpréter du Javascript côté serveur ? Si oui, comment ?
 > Je pense que oui, en envoyant un exécutable en PHP via le JavaScript?
 6) Qu’est-ce qu’un sélecteur CSS ?
