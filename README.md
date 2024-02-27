@@ -45,7 +45,7 @@ exemple d’utilisation en PHP
 
 ## Front-end
 1) Définir HTML
-> réponse
+> HyperText Markup Language. Il sert à donner une structure au projet à l'aide de balises.
 2) Définir CSS
 3) Définir Javascript
 4) Définir JSON. Dans quel contexte ce format est-il utilisé ?
