@@ -59,6 +59,7 @@ exemple d’utilisation en PHP
 9) Quel sélecteur CSS permet de sélectionner tous les éléments d’une classe spécifique ? D’un 
 identifiant spécifique ?
 10) Définir le responsive design.
+>Le responsive design s'adapte aux différents types et tailles d'appareils pour que l'utilisateur ait une meilleure expérience. 
 11) Qu’est-ce que le templating ?
 12) Qu’est-ce qu’une fonction anonyme en Javascript ?
 13) Quelle méthode JavaScript est utilisée pour ajouter un élément à la fin d'un tableau ?
@@ -67,8 +68,9 @@ identifiant spécifique ?
 15) Qu’est-ce qu’un pseudo élément en CSS ?
 16) Qu’est-ce que Bootstrap ? Donner d’autres exemples équivalent
 17) Quand un formulaire HTML est créé, quelles sont les 2 méthodes qui peuvent lui être associées ?
-Donner la différence entre ces 2 méthodes
-UX / UI
+Donner la différence entre ces 2 méthodes.
+
+## UX / UI
 1) Quelle est la différence entre UX Design et UI Design ?
 2) Qu’est-ce qu’un wireframe ?
 3) Qu’est-ce qu’un prototype ?
