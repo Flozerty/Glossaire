@@ -52,6 +52,7 @@ exemple d’utilisation en PHP
 > JavaScript est un langage de programmation.
 4) Définir JSON. Dans quel contexte ce format est-il utilisé ?
 5) Peut-on interpréter du Javascript côté serveur ? Si oui, comment ?
+> Je pense que oui, en envoyant un exécutable en PHP via le JavaScript?
 6) Qu’est-ce qu’un sélecteur CSS ?
 7) Quelle balise HTML permet de créer un lien hypertexte ?
 > `<a href='lienhypertexte'>le lien</a>`
@@ -59,7 +60,7 @@ exemple d’utilisation en PHP
 9) Quel sélecteur CSS permet de sélectionner tous les éléments d’une classe spécifique ? D’un 
 identifiant spécifique ?
 10) Définir le responsive design.
->Le responsive design s'adapte aux différents types et tailles d'appareils pour que l'utilisateur ait une meilleure expérience. 
+> Le responsive design s'adapte aux différents types et tailles d'appareils pour que l'utilisateur ait une meilleure expérience. 
 11) Qu’est-ce que le templating ?
 12) Qu’est-ce qu’une fonction anonyme en Javascript ?
 13) Quelle méthode JavaScript est utilisée pour ajouter un élément à la fin d'un tableau ?
