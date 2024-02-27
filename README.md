@@ -54,7 +54,7 @@ exemple d’utilisation en PHP
 5) Peut-on interpréter du Javascript côté serveur ? Si oui, comment ?
 6) Qu’est-ce qu’un sélecteur CSS ?
 7) Quelle balise HTML permet de créer un lien hypertexte ?
-`<a href='lienhypertexte'>le lien</a>`
+> `<a href='lienhypertexte'>le lien</a>`
 8) Qu’est-ce qu’une requête AJAX ?
 9) Quel sélecteur CSS permet de sélectionner tous les éléments d’une classe spécifique ? D’un 
 identifiant spécifique ?
