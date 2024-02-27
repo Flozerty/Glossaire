@@ -5,6 +5,7 @@ L’idée est de réussir à définir les différentes notions en une à 3 phras
 vocabulaire technique approprié. Ce document vous servira comme base de révisions.
 A chaque fois qu’un acronyme est cité dans le glossaire, il sera impératif de donner la signification 
 de chaque lettre initiale.
+
 • Général
 • Front-end
 • UX / UI
@@ -17,7 +18,9 @@ de chaque lettre initiale.
 • SEO
 • Gestion de projets / DevOps
 • English
-Général
+
+
+## Général
 1) Quel est l’environnement à installer pour exécuter un script PHP ? Citer 2 exemples de logiciels 
 permettant ce contexte
 2) Qu’est-ce qu’un algorithme ?
