@@ -47,7 +47,9 @@ exemple d’utilisation en PHP
 1) Définir HTML
 > HyperText Markup Language. Il sert à donner une structure au projet à l'aide de balises.
 2) Définir CSS
-3) Définir Javascript
+> Cascading Styles Sheet. Il permet quant à lui de donner du style à chaque élément d'un projet.
+3) Définir JavaScript
+> JavaScript est un langage de programmation.
 4) Définir JSON. Dans quel contexte ce format est-il utilisé ?
 5) Peut-on interpréter du Javascript côté serveur ? Si oui, comment ?
 6) Qu’est-ce qu’un sélecteur CSS ?
