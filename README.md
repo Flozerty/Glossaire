@@ -63,6 +63,7 @@ identifiant spécifique ?
 12) Qu’est-ce qu’une fonction anonyme en Javascript ?
 13) Quelle méthode JavaScript est utilisée pour ajouter un élément à la fin d'un tableau ?
 14) Qu’est-ce qu’un « media query » ?
+> C'est un moyen utilisé en CSS afin d'attribuer des styles en fonction du type ou de la taille de l'appareil utilisé par l'utilisateur.
 15) Qu’est-ce qu’un pseudo élément en CSS ?
 16) Qu’est-ce que Bootstrap ? Donner d’autres exemples équivalent
 17) Quand un formulaire HTML est créé, quelles sont les 2 méthodes qui peuvent lui être associées ?
