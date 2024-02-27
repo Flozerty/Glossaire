@@ -64,6 +64,7 @@ identifiant spécifique ?
 > Le responsive design s'adapte aux différents types et tailles d'appareils pour que l'utilisateur ait une meilleure expérience. 
 11) Qu’est-ce que le templating ?
 12) Qu’est-ce qu’une fonction anonyme en Javascript ?
+> Une fonction fléchée?
 13) Quelle méthode JavaScript est utilisée pour ajouter un élément à la fin d'un tableau ?
 14) Qu’est-ce qu’un « media query » ?
 > C'est un moyen utilisé en CSS afin d'attribuer des styles en fonction du type ou de la taille de l'appareil utilisé par l'utilisateur.
