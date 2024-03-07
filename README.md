@@ -65,6 +65,7 @@ identifiant spécifique ?
 11) Qu’est-ce que le templating ?
 12) Qu’est-ce qu’une fonction anonyme en Javascript ?
 13) Quelle méthode JavaScript est utilisée pour ajouter un élément à la fin d'un tableau ?
+> push()
 14) Qu’est-ce qu’un « media query » ?
 > C'est un moyen utilisé en CSS afin d'attribuer des styles en fonction du type ou de la taille de l'appareil utilisé par l'utilisateur.
 15) Qu’est-ce qu’un pseudo élément en CSS ?
