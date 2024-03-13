@@ -209,7 +209,8 @@ Sécurité
 11) Qu'est-ce que le maillage interne et pourquoi est-il important pour le référencement ?
 12) Qu'est-ce que l'optimisation des images pour le référencement ?
 13) Qu'est-ce qu'un plan de site (sitemap) et pourquoi est-il important pour le référencement ?
-Gestion de projets / DevOps
+    
+## Gestion de projets / DevOps
 1) Qu’est-ce que la gestion de projet ?
 2) Qu’est-ce qu’une méthode Agile de gestion de projet ?
 3) Expliquer la méthode MoSCoW en quelques lignes et citer ses avantages
