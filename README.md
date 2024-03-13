@@ -59,6 +59,7 @@ exemple d’utilisation en PHP
 > `<a href='lienhypertexte'>le lien</a>`
 8) Qu’est-ce qu’une requête AJAX ?
 9) Quel sélecteur CSS permet de sélectionner tous les éléments d’une classe spécifique ? D’un identifiant spécifique ?
+> "." pour sélectionner une classe et "#" pour un identifiant.
 10) Définir le responsive design.
 > Le responsive design s'adapte aux différents types et tailles d'appareils pour que l'utilisateur ait une meilleure expérience. 
 11) Qu’est-ce que le templating ?
