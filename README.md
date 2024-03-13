@@ -27,7 +27,7 @@ permettant ce contexte.
 3) Qu’est-ce qu’une variable ? Par quel symbole est préfixée une variable en PHP ?
 4) Qu’est-ce que la portée d’une variable ?
 5) Qu’est-ce qu’une constante ? Quelle est la différence avec une variable ?
-> une constante est une valeur de n'importe quel type qui ne change pas. elle est initialisée, et ne sera pas modifiée, contrairement à une variable.
+   > une constante est une valeur de n'importe quel type qui ne change pas. elle est initialisée, et ne sera pas modifiée, contrairement à une variable.
 6) Qu’est-ce qu’une superglobale, combien en existent-ils et donner un exemple d’utilisation
 7) Quels sont les différents types (primitifs) que l’on peut associer à une variable en PHP ? Les citer 
 et en donner des exemples (ne pas oublier le type d’une variable sans valeur)
@@ -46,36 +46,36 @@ exemple d’utilisation en PHP
 
 ## Front-end
 1) Définir HTML
-> HyperText Markup Language. Il sert à donner une structure au projet à l'aide de balises.
+   > HyperText Markup Language. Il sert à donner une structure au projet à l'aide de balises.
 2) Définir CSS
-> Cascading Styles Sheet. Il permet quant à lui de donner du style à chaque élément d'un projet.
+   > Cascading Styles Sheet. Il permet quant à lui de donner du style à chaque élément d'un projet.
 3) Définir JavaScript
-> JavaScript est un langage de programmation permettant d'ajouter des scripts pour rendre l'application plus responsive.
+   > JavaScript est un langage de programmation permettant d'ajouter des scripts pour rendre l'application plus responsive.
 4) Définir JSON. Dans quel contexte ce format est-il utilisé ?
-> JSON est une structure utilisée pour conserver des données, utilisé donc en base de donnée.
+   > JSON est une structure utilisée pour conserver des données, utilisé donc en base de donnée.
 5) Peut-on interpréter du Javascript côté serveur ? Si oui, comment ?
-> Je pense que oui, en envoyant un exécutable en PHP via le JavaScript?
+   > Je pense que oui, en envoyant un exécutable en PHP via le JavaScript?
 6) Qu’est-ce qu’un sélecteur CSS ?
-> une classe, identifiant, ou balsie permettant d'identifier un élément dans le HTML pour y attribuer des styles.
+   > une classe, identifiant, ou balsie permettant d'identifier un élément dans le HTML pour y attribuer des styles.
 7) Quelle balise HTML permet de créer un lien hypertexte ?
-> `<a href='lienhypertexte'>le lien</a>`
+   > `<a href='lienhypertexte'>le lien</a>`
 8) Qu’est-ce qu’une requête AJAX ?
 9) Quel sélecteur CSS permet de sélectionner tous les éléments d’une classe spécifique ? D’un identifiant spécifique ?
-> "." pour sélectionner une classe et "#" pour un identifiant.
+   > "." pour sélectionner une classe et "#" pour un identifiant.
 10) Définir le responsive design.
-> Le responsive design s'adapte aux différents types et tailles d'appareils pour que l'utilisateur ait une meilleure expérience. 
+   > Le responsive design s'adapte aux différents types et tailles d'appareils pour que l'utilisateur ait une meilleure expérience. 
 11) Qu’est-ce que le templating ?
 12) Qu’est-ce qu’une fonction anonyme en Javascript ?
 13) Quelle méthode JavaScript est utilisée pour ajouter un élément à la fin d'un tableau ?
-> push()
+   > push()
 14) Qu’est-ce qu’un « media query » ?
-> C'est un moyen utilisé en CSS afin d'attribuer des styles en fonction du type ou de la taille de l'appareil de l'utilisateur.
+   > C'est un moyen utilisé en CSS afin d'attribuer des styles en fonction du type ou de la taille de l'appareil de l'utilisateur.
 15) Qu’est-ce qu’un pseudo élément en CSS ?
 16) Qu’est-ce que Bootstrap ? Donner d’autres exemples équivalent
-> Un frameWork CSS 
+   > Un frameWork CSS 
 17) Quand un formulaire HTML est créé, quelles sont les 2 méthodes qui peuvent lui être associées ?
-Donner la différence entre ces 2 méthodes.
-> GET et POST. un permet d'envoyer des données au serveur et l'autre de 
+   Donner la différence entre ces 2 méthodes.
+   > GET et POST. un permet d'envoyer des données au serveur et l'autre de 
 
 ## UX / UI
 1) Quelle est la différence entre UX Design et UI Design ?
@@ -91,7 +91,7 @@ Donner la différence entre ces 2 méthodes.
 ## Programmation orientée objet (POO)
 1) Donner une définition de la programmation orientée objet
 2) Qu’est-ce qu’une classe ? Comment la déclare-t-on ?
-> Une classe est un ensemble d'attributs et se déclare avec un constructor.
+   > Une classe est un ensemble d'attributs et se déclare avec un constructor.
 3) Qu’est-ce qu’un objet ?
 4) Définir la notion de propriété / attribut / méthode
 5) Qu’est-ce que la visibilité d’une propriété ou d’une méthode ? Citerles différentstypes de visibilité
@@ -231,30 +231,30 @@ Gestion de projets / DevOps
   >~~b. Define the layout and design of web pages
   >c. Handle server-side operations~~
 2) Which programming language is primarily used for server-side web development ?
->a. PHP
->b. JavaScript
->c. HTML
+   >a. PHP
+   >b. JavaScript
+   >c. HTML
 3) What is the purpose of a web browser ?
->a. To render and display web pages
->b. To execute serve-side code
->c. To manage databases
+   >a. To render and display web pages
+   >b. To execute serve-side code
+   >c. To manage databases
 4) What is the difference between GET and POST methods in HTTP ?
->a. GET retrieves data from a server, while POST submits data to a server
->b. GET submits data to a server, while POST retrieves data from a server
->c. GET and POST methods are interchangeable
+   >a. GET retrieves data from a server, while POST submits data to a server
+   >b. GET submits data to a server, while POST retrieves data from a server
+   >c. GET and POST methods are interchangeable
 5) What is the purpose of version control systems (e.g., Git) in web development ?
->a. To track changes and manage collaborative development
->b. To optimize website loading speed
->c. To handle server-side scripting
+   >a. To track changes and manage collaborative development
+   >b. To optimize website loading speed
+   >c. To handle server-side scripting
 6) What is the purpose of a framework in web development ?
->a. To provide a structured environment for building web applications
->b. To handle network protocols and data transfer
->c. To create visual designs and layouts for websites
+   >a. To provide a structured environment for building web applications
+   >b. To handle network protocols and data transfer
+   >c. To create visual designs and layouts for websites
 7) What does NoSQL stand for ?
->a. Not Only SQL
->b. Non-Structured Query Language
->c. New Object-Oriented Language
+   >a. Not Only SQL
+   >b. Non-Structured Query Language
+   >c. New Object-Oriented Language
 8) Which of the following is a characteristic of NoSQL databases ?
->a. Strict schema enforcement
->b. Support for complex transactions
->c. Scalability and flexible data models
+   >a. Strict schema enforcement
+   >b. Support for complex transactions
+   >c. Scalability and flexible data models
