@@ -35,7 +35,7 @@ et en donner des exemples (ne pas oublier le type d’une variable sans valeur)
 9) Quelles sont les différentes structures de contrôles qu’il existe en algorithmie ? Donner un 
 exemple pour chacune d’entre elles
 10) Quelle est la fonction PHP permettant de demander la longueur d’une chaîne de caractères ?
-1) Qu’est-ce qu’une session ? Quelle fonction permet de démarrer une session en PHP ? Donner un 
+11) Qu’est-ce qu’une session ? Quelle fonction permet de démarrer une session en PHP ? Donner un 
 exemple d’utilisation en PHP
 12) Qu’est-ce qu’un cookie ? Donner un exemple d’utilisation en PHP
 13) Quelle est la différence entre les instructions « require » et « include » en PHP
