@@ -121,7 +121,8 @@ la différence
 5) Quels sont les avantages de l’architecture MVC ?
 6) Existe-t-il des variantes à l’architecture MVC ?
 7) Qu’est-ce qu’une API ? Définir l’architecture REST
-Modélisation / Base de données
+
+## Modélisation / Base de données
 1) Qu’est-ce que la modélisation de données ? Définir la méthode Merise
 2) Quelles sont les 3 étapes principales de la méthode Merise ?
 a. Analyse, conception et réalisation
@@ -171,7 +172,8 @@ contient l’intégralité des dépendances du projet ?
 8) Que permet le bundle Maker au sein de Symfony ?
 9) Quel est le langage de requêtage exploité au sein d’un projet Symfony ?
 10) Quel est le composant qui garantit l’authentification et l’autorisation des utilisateurs ?
-Sécurité
+
+## Sécurité
 1) Qu’est-ce que l’injection SQL ? Comment s’en prémunir ?
 2) Qu’est-ce que la faille XSS ? Comment s’en prémunir ?
 3) Qu’est-ce que la faille CSRF ? Comment s’en prémunir ?
