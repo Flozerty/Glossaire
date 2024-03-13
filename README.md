@@ -49,7 +49,7 @@ exemple d’utilisation en PHP
 2) Définir CSS
 > Cascading Styles Sheet. Il permet quant à lui de donner du style à chaque élément d'un projet.
 3) Définir JavaScript
-> JavaScript est un langage de programmation.
+> JavaScript est un langage de programmation permettant d'ajouter des scripts pour rendre l'application plus responsive.
 4) Définir JSON. Dans quel contexte ce format est-il utilisé ?
 > JSON est une structure utilisée pour conserver des données, utilisé donc en base de donnée.
 5) Peut-on interpréter du Javascript côté serveur ? Si oui, comment ?
@@ -58,8 +58,7 @@ exemple d’utilisation en PHP
 7) Quelle balise HTML permet de créer un lien hypertexte ?
 > `<a href='lienhypertexte'>le lien</a>`
 8) Qu’est-ce qu’une requête AJAX ?
-9) Quel sélecteur CSS permet de sélectionner tous les éléments d’une classe spécifique ? D’un 
-identifiant spécifique ?
+9) Quel sélecteur CSS permet de sélectionner tous les éléments d’une classe spécifique ? D’un identifiant spécifique ?
 10) Définir le responsive design.
 > Le responsive design s'adapte aux différents types et tailles d'appareils pour que l'utilisateur ait une meilleure expérience. 
 11) Qu’est-ce que le templating ?
@@ -67,11 +66,13 @@ identifiant spécifique ?
 13) Quelle méthode JavaScript est utilisée pour ajouter un élément à la fin d'un tableau ?
 > push()
 14) Qu’est-ce qu’un « media query » ?
-> C'est un moyen utilisé en CSS afin d'attribuer des styles en fonction du type ou de la taille de l'appareil utilisé par l'utilisateur.
+> C'est un moyen utilisé en CSS afin d'attribuer des styles en fonction du type ou de la taille de l'appareil de l'utilisateur.
 15) Qu’est-ce qu’un pseudo élément en CSS ?
 16) Qu’est-ce que Bootstrap ? Donner d’autres exemples équivalent
+> Un frameWork CSS 
 17) Quand un formulaire HTML est créé, quelles sont les 2 méthodes qui peuvent lui être associées ?
 Donner la différence entre ces 2 méthodes.
+> GET et POST. un permet d'envoyer des données au serveur et l'autre de 
 
 ## UX / UI
 1) Quelle est la différence entre UX Design et UI Design ?
