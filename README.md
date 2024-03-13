@@ -32,6 +32,13 @@ permettant ce contexte.
 6) Qu’est-ce qu’une superglobale, combien en existent-ils et donner un exemple d’utilisation
 7) Quels sont les différents types (primitifs) que l’on peut associer à une variable en PHP ? Les citer 
 et en donner des exemples (ne pas oublier le type d’une variable sans valeur)
+   > - $string = "Bonjour";
+   > - $number = 13;
+   > - $float = 12.34;
+   > - $boolean = true;
+   > - $array = ["azerty", 2, 45.4, "uiop"]
+   > - $undefined = undefined;
+   > - $dateTime = new Date('1995-07-03') 
 8) Existe-t-il plusieurs types de tableaux en PHP, si oui lesquels ?
 9) Quelles sont les différentes structures de contrôles qu’il existe en algorithmie ? Donner un 
 exemple pour chacune d’entre elles
