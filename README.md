@@ -55,6 +55,7 @@ exemple d’utilisation en PHP
 5) Peut-on interpréter du Javascript côté serveur ? Si oui, comment ?
 > Je pense que oui, en envoyant un exécutable en PHP via le JavaScript?
 6) Qu’est-ce qu’un sélecteur CSS ?
+> une classe, identifiant, ou balsie permettant d'identifier un élément dans le HTML pour y attribuer des styles.
 7) Quelle balise HTML permet de créer un lien hypertexte ?
 > `<a href='lienhypertexte'>le lien</a>`
 8) Qu’est-ce qu’une requête AJAX ?
