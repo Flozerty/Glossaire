@@ -100,6 +100,7 @@ Programmation orientée objet (POO)
 14) Qu’est-ce que la méthode __toString() ? Existe-t-il d’autres méthodes « magiques »
 15) Qu’est-ce qu’un « autoload » ?
 16) Comment appelle-t-on en français les « getters » et les « setters » ?
+    >Les getters revoient la valeur de la variable et les setters permettent de la changer.
 17) Qu’est-ce que la sérialisation en PHP ?
 
 ## Architecture 
