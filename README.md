@@ -25,7 +25,7 @@ de chaque lettre initiale.
 permettant ce contexte.
 2) Qu’est-ce qu’un algorithme ?
 3) Qu’est-ce qu’une variable ? Par quel symbole est préfixée une variable en PHP ?
->une variable est une valeur de n'importe quel type. Elle est préfixée d'un $
+   >une variable est une valeur de n'importe quel type. Elle est préfixée d'un $
 4) Qu’est-ce que la portée d’une variable ?
 5) Qu’est-ce qu’une constante ? Quelle est la différence avec une variable ?
    > une constante est une valeur de n'importe quel type qui ne change pas. elle est initialisée, et ne sera pas modifiée, contrairement à une variable.
@@ -36,6 +36,7 @@ et en donner des exemples (ne pas oublier le type d’une variable sans valeur)
 9) Quelles sont les différentes structures de contrôles qu’il existe en algorithmie ? Donner un 
 exemple pour chacune d’entre elles
 10) Quelle est la fonction PHP permettant de demander la longueur d’une chaîne de caractères ?
+   > strlen('phrase').
 11) Qu’est-ce qu’une session ? Quelle fonction permet de démarrer une session en PHP ? Donner un 
 exemple d’utilisation en PHP
 12) Qu’est-ce qu’un cookie ? Donner un exemple d’utilisation en PHP
