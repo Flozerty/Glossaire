@@ -85,8 +85,9 @@ Donner la différence entre ces 2 méthodes.
 8) Qu’est-ce qu’un « mobile first design » ?
    
 ## Programmation orientée objet (POO)
-1) Donner une définition de la programmation orientée objet 
+1) Donner une définition de la programmation orientée objet
 2) Qu’est-ce qu’une classe ? Comment la déclare-t-on ?
+> Une classe est un ensemble d'attributs et se déclare avec un constructor.
 3) Qu’est-ce qu’un objet ?
 4) Définir la notion de propriété / attribut / méthode
 5) Qu’est-ce que la visibilité d’une propriété ou d’une méthode ? Citerles différentstypes de visibilité
