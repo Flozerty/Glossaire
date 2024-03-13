@@ -86,7 +86,7 @@ exemple d’utilisation en PHP
 6) Qu’est-ce qu’une grille de mise en page ?
 7) Qu’est-ce que la notion d’affordance en UX Design ?
 8) Qu’est-ce qu’un « mobile first design » ?
-   >C'est quand on programme pour mobile en priorité, et ensuite on mettra les @mediaQueries pour les autres écrans. 
+   >C'est quand on vise à adapter notre application pour mobile en priorité, et ensuite on mettra les @mediaQueries par exemple, pour les autres écrans. 
    
 ## Programmation orientée objet (POO)
 1) Donner une définition de la programmation orientée objet
