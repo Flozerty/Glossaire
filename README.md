@@ -19,7 +19,6 @@ de chaque lettre initiale.
 • Gestion de projets / DevOps
 • English
 
-
 ## Général
 1) Quel est l’environnement à installer pour exécuter un script PHP ? Citer 2 exemples de logiciels 
 permettant ce contexte.
@@ -27,6 +26,7 @@ permettant ce contexte.
 3) Qu’est-ce qu’une variable ? Par quel symbole est préfixée une variable en PHP ?
    >une variable est une valeur de n'importe quel type. Elle est préfixée d'un $
 4) Qu’est-ce que la portée d’une variable ?
+   > C'est la zone du code dans laquelle la variable peut être appelée ou lue. En dehors, la variable n'existe pas.
 5) Qu’est-ce qu’une constante ? Quelle est la différence avec une variable ?
    > une constante est une valeur de n'importe quel type qui ne change pas. elle est initialisée, et ne sera pas modifiée, contrairement à une variable.
 6) Qu’est-ce qu’une superglobale, combien en existent-ils et donner un exemple d’utilisation
