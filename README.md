@@ -84,7 +84,7 @@ Donner la différence entre ces 2 méthodes.
 7) Qu’est-ce que la notion d’affordance en UX Design ?
 8) Qu’est-ce qu’un « mobile first design » ?
    
-##Programmation orientée objet (POO)
+## Programmation orientée objet (POO)
 1) Donner une définition de la programmation orientée objet 
 2) Qu’est-ce qu’une classe ? Comment la déclare-t-on ?
 3) Qu’est-ce qu’un objet ?
