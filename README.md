@@ -25,6 +25,7 @@ de chaque lettre initiale.
 permettant ce contexte.
 2) Qu’est-ce qu’un algorithme ?
 3) Qu’est-ce qu’une variable ? Par quel symbole est préfixée une variable en PHP ?
+>une variable est une valeur de n'importe quel type. Elle est préfixée d'un $
 4) Qu’est-ce que la portée d’une variable ?
 5) Qu’est-ce qu’une constante ? Quelle est la différence avec une variable ?
    > une constante est une valeur de n'importe quel type qui ne change pas. elle est initialisée, et ne sera pas modifiée, contrairement à une variable.
