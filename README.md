@@ -83,7 +83,8 @@ Donner la différence entre ces 2 méthodes.
 6) Qu’est-ce qu’une grille de mise en page ?
 7) Qu’est-ce que la notion d’affordance en UX Design ?
 8) Qu’est-ce qu’un « mobile first design » ?
-Programmation orientée objet (POO)
+   
+##Programmation orientée objet (POO)
 1) Donner une définition de la programmation orientée objet 
 2) Qu’est-ce qu’une classe ? Comment la déclare-t-on ?
 3) Qu’est-ce qu’un objet ?
@@ -100,7 +101,7 @@ Programmation orientée objet (POO)
 14) Qu’est-ce que la méthode __toString() ? Existe-t-il d’autres méthodes « magiques »
 15) Qu’est-ce qu’un « autoload » ?
 16) Comment appelle-t-on en français les « getters » et les « setters » ?
-    >Les getters revoient la valeur de la variable et les setters permettent de la changer.
+    >Les getters renvoient la valeur de la variable et les setters permettent de la changer.
 17) Qu’est-ce que la sérialisation en PHP ?
 
 ## Architecture 
