@@ -104,7 +104,8 @@ exemple d’utilisation en PHP
 
 ## UX / UI
 1) Quelle est la différence entre UX Design et UI Design ?
-   > 
+   > UI (User Interface) se concentre sur l'interface, l'aspect visuel pour l'utilisateur.
+   > UX (User eXperience) se concentre sur l'experience, les interactions de l'utilisateur avec les diffrents objets.
 2) Qu’est-ce qu’un wireframe ?
    > 
 3) Qu’est-ce qu’un prototype ?
@@ -151,13 +152,13 @@ exemple d’utilisation en PHP
    > 
 15) Qu’est-ce qu’un « autoload » ?
    > C'est une fonction qui va aller chercher toutes les classes existantes dans les autres fichiers php :  
-> `spl_autoload_register(function ($class_name) {  
-> require 'classes/'. $class_name .'.php';}  
-> );`
+   >  `spl_autoload_register(function ($class_name) {  
+   >  require 'classes/'. $class_name .'.php';}  
+   >  );`
 16) Comment appelle-t-on en français les « getters » et les « setters » ?
-    >Les getters renvoient la valeur de la variable et les setters permettent de la changer.
+   > Les getters renvoient la valeur de la variable et les setters permettent de la changer.
 17) Qu’est-ce que la sérialisation en PHP ?
- > 
+   > 
 
 ## Architecture 
 1) Qu’est-ce que l’architecture client / serveur ? Grâce à quel type de requête peut-on interroger le 
