@@ -82,7 +82,8 @@ exemple d’utilisation en PHP
    > 
 
 15) Définir la partie « front-end » et « back-end » d’une application
-   > 
+   > Le front-end est la partie visible d'une application ou d'un site web, la partie où l'on se concentre justement sur le UX - UI.
+   > Le back-end est la partie que l'utilisateur ne voit pas, la partie invisible, côté serveur, qui peut être la base de donnée, les requêtes envoyées au serveur
 
 16) Définir le contrôle de version ? Qu’est-ce que Git ?
    > 
