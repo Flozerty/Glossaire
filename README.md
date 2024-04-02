@@ -27,12 +27,16 @@ permettant ce contexte.
    > 
 3) Qu’est-ce qu’une variable ? Par quel symbole est préfixée une variable en PHP ?
    >une variable est une valeur de n'importe quel type. Elle est préfixée d'un $
+
 4) Qu’est-ce que la portée d’une variable ?
    > C'est la zone du code dans laquelle la variable peut être appelée ou lue. En dehors, la variable n'existe pas.
+
 5) Qu’est-ce qu’une constante ? Quelle est la différence avec une variable ?
    > une constante est une valeur de n'importe quel type qui ne change pas. elle est initialisée, et ne sera pas modifiée, contrairement à une variable.
+
 6) Qu’est-ce qu’une superglobale, combien en existent-ils et donner un exemple d’utilisation
    > 
+
 7) Quels sont les différents types (primitifs) que l’on peut associer à une variable en PHP ? Les citer 
 et en donner des exemples (ne pas oublier le type d’une variable sans valeur)
    > - $string = "Bonjour";
@@ -42,6 +46,7 @@ et en donner des exemples (ne pas oublier le type d’une variable sans valeur)
    > - $array = ["azerty", 2, 45.4, "uiop"]
    > - $undefined = undefined;
    > - $dateTime = new Date('1995-07-03') 
+
 8) Existe-t-il plusieurs types de tableaux en PHP, si oui lesquels ?
    > 
 9) Quelles sont les différentes structures de contrôles qu’il existe en algorithmie ? Donner un 
