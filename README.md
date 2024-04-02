@@ -22,9 +22,9 @@ de chaque lettre initiale.
 ## Général
 1) Quel est l’environnement à installer pour exécuter un script PHP ? Citer 2 exemples de logiciels 
 permettant ce contexte.
- > Il faut installer un environnement côté serveur. Deux exemple : Laragon que l'on utilise en cours, et XAMPP
+   > Il faut installer un environnement côté serveur. Deux exemple : Laragon que l'on utilise en cours, et XAMPP
 2) Qu’est-ce qu’un algorithme ?
- > 
+   > 
 3) Qu’est-ce qu’une variable ? Par quel symbole est préfixée une variable en PHP ?
    >une variable est une valeur de n'importe quel type. Elle est préfixée d'un $
 4) Qu’est-ce que la portée d’une variable ?
@@ -32,7 +32,7 @@ permettant ce contexte.
 5) Qu’est-ce qu’une constante ? Quelle est la différence avec une variable ?
    > une constante est une valeur de n'importe quel type qui ne change pas. elle est initialisée, et ne sera pas modifiée, contrairement à une variable.
 6) Qu’est-ce qu’une superglobale, combien en existent-ils et donner un exemple d’utilisation
- > 
+   > 
 7) Quels sont les différents types (primitifs) que l’on peut associer à une variable en PHP ? Les citer 
 et en donner des exemples (ne pas oublier le type d’une variable sans valeur)
    > - $string = "Bonjour";
@@ -43,27 +43,27 @@ et en donner des exemples (ne pas oublier le type d’une variable sans valeur)
    > - $undefined = undefined;
    > - $dateTime = new Date('1995-07-03') 
 8) Existe-t-il plusieurs types de tableaux en PHP, si oui lesquels ?
- > 
+   > 
 9) Quelles sont les différentes structures de contrôles qu’il existe en algorithmie ? Donner un 
 exemple pour chacune d’entre elles
- > 
+   > 
 10) Quelle est la fonction PHP permettant de demander la longueur d’une chaîne de caractères ?
    > strlen('phrase').
 11) Qu’est-ce qu’une session ? Quelle fonction permet de démarrer une session en PHP ? Donner un 
 exemple d’utilisation en PHP
- > 
+   > 
 12) Qu’est-ce qu’un cookie ? Donner un exemple d’utilisation en PHP
- > 
+   > 
 13) Quelle est la différence entre les instructions « require » et « include » en PHP
- > 
+   > 
 14) Comment effectuer une redirection en PHP ?
- > 
+   > 
 15) Définir la partie « front-end » et « back-end » d’une application
- > 
+   > 
 16) Définir le contrôle de version ? Qu’est-ce que Git ?
- > 
+   > 
 17) Qu’est-ce qu’un CMS ? Citer au moins 2 exemples
- > 
+   > 
 
 ## Front-end
 1) Définir HTML
@@ -81,77 +81,77 @@ exemple d’utilisation en PHP
 7) Quelle balise HTML permet de créer un lien hypertexte ?
    > `<a href='lienhypertexte'>le lien</a>`
 8) Qu’est-ce qu’une requête AJAX ?
- > 
+   > 
 9) Quel sélecteur CSS permet de sélectionner tous les éléments d’une classe spécifique ? D’un identifiant spécifique ?
    > "." pour sélectionner une classe et "#" pour un identifiant.
 10) Définir le responsive design.
    > Le responsive design s'adapte aux différents types et tailles d'appareils pour que l'utilisateur ait une meilleure expérience. 
 11) Qu’est-ce que le templating ?
- > 
+   > 
 12) Qu’est-ce qu’une fonction anonyme en Javascript ?
- > 
+   > 
 13) Quelle méthode JavaScript est utilisée pour ajouter un élément à la fin d'un tableau ?
    > push()
 14) Qu’est-ce qu’un « media query » ?
    > C'est un moyen utilisé en CSS afin d'attribuer des styles en fonction du type ou de la taille de l'appareil de l'utilisateur.
 15) Qu’est-ce qu’un pseudo élément en CSS ?
- > 
+   > 
 16) Qu’est-ce que Bootstrap ? Donner d’autres exemples équivalent
    > Un frameWork CSS 
 17) Quand un formulaire HTML est créé, quelles sont les 2 méthodes qui peuvent lui être associées ?
-   Donner la différence entre ces 2 méthodes.
+  Donner la différence entre ces 2 méthodes.
    > GET et POST. un permet d'envoyer des données au serveur et l'autre de 
 
 ## UX / UI
 1) Quelle est la différence entre UX Design et UI Design ?
- > 
+   > 
 2) Qu’est-ce qu’un wireframe ?
- > 
+   > 
 3) Qu’est-ce qu’un prototype ?
- > 
+   > 
 4) Qu’est-ce que la hiérarchie visuelle en UI Design ?
- > 
+   > 
 5) Qu’est-ce que l’accessibilité en UX Design ?
- > 
+   > 
 6) Qu’est-ce qu’une grille de mise en page ?
- > 
+   > 
 7) Qu’est-ce que la notion d’affordance en UX Design ?
- > 
+   > 
 8) Qu’est-ce qu’un « mobile first design » ?
    >C'est quand on vise à adapter notre application pour mobile en priorité, et ensuite on mettra les @mediaQueries par exemple, pour les autres écrans. 
    
 ## Programmation orientée objet (POO)
 1) Donner une définition de la programmation orientée objet
- > 
+   > 
 2) Qu’est-ce qu’une classe ? Comment la déclare-t-on ?
    > Une classe est un ensemble d'attributs et se déclare avec un constructor.
 3) Qu’est-ce qu’un objet ?
- > 
+   > 
 4) Définir la notion de propriété / attribut / méthode
- > 
+   > 
 5) Qu’est-ce que la visibilité d’une propriété ou d’une méthode ? Citerles différentstypes de visibilité
- > 
+   > 
 6) Quelle est la méthode spécifique utilisée pour créer un nouvel objet à partir d’une classe ?
- > 
+   > 
 7) Qu’est-ce que l’encapsulation ?
- > 
+   > 
 8) Que signifie « étendre une classe » ? Quelle est le concept clé mis en œuvre ? Donner un exemple
- > 
+   > 
 9) Définir l’opérateur de résolution de portée
- > 
+   > 
 10) Définir une méthode / propriété statique
- > 
+   > 
 11) Définir le polymorphisme en POO
- > 
+   > 
 12) Définir une méthode / classe abstraite ?
- > 
+   > 
 13) Définir le chaînage de méthodes
- > 
+   > 
 14) Qu’est-ce que la méthode __toString() ? Existe-t-il d’autres méthodes « magiques »
- > 
+   > 
 15) Qu’est-ce qu’un « autoload » ?
- > C'est une fonction qui va aller chercher toutes les classes des autres fichiers, voici un exemple :
-> `spl_autoload_register(function ($class_name) {
+   > C'est une fonction qui va aller chercher toutes les classes des autres fichiers, voici un exemple :
+   > `spl_autoload_register(function ($class_name) {
   require 'classes/'. $class_name .'.php';}
 );`
 16) Comment appelle-t-on en français les « getters » et les « setters » ?
