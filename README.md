@@ -59,7 +59,10 @@ et en donner des exemples (ne pas oublier le type d’une variable sans valeur)
    > - $dateTime = new Date('1995-07-03') 
 
 8) Existe-t-il plusieurs types de tableaux en PHP, si oui lesquels ?
-   > 
+   > Oui, il existe différents types de tableaux.
+   > - Il existe les tableaux simples de variables tel que `array(1, 2, 3, "a", "b", "c")`
+   > - Et il existe les tableaux "associatifs" avec la forme clé => valeur, où l'on attribue à chaque clé une valeur :
+   > - `array("nom" => "Louërat", "prenom" => "floris", "age" => 28)`
 
 9) Quelles sont les différentes structures de contrôles qu’il existe en algorithmie ? Donner un 
 exemple pour chacune d’entre elles
