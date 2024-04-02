@@ -35,7 +35,16 @@ permettant ce contexte.
    > une constante est une valeur de n'importe quel type qui ne change pas. elle est initialisée, et ne sera pas modifiée, contrairement à une variable.
 
 6) Qu’est-ce qu’une superglobale, combien en existent-ils et donner un exemple d’utilisation
-   > 
+   > Une superglobale PHP est une variable PREDEFINIE, disponible partout et tout le temps dans un script.
+   > Il en existe 8 :
+   > - $_GET
+   > - $_POST
+   > - $_REQUEST
+   > - $_COOKIE
+   > - $_SESSION
+   > - $_SERVER
+   > - $_FILES
+   > - $_ENV
 
 7) Quels sont les différents types (primitifs) que l’on peut associer à une variable en PHP ? Les citer 
 et en donner des exemples (ne pas oublier le type d’une variable sans valeur)
