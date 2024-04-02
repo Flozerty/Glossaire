@@ -150,7 +150,7 @@ exemple d’utilisation en PHP
 14) Qu’est-ce que la méthode __toString() ? Existe-t-il d’autres méthodes « magiques »
    > 
 15) Qu’est-ce qu’un « autoload » ?
-   > C'est une fonction qui va aller chercher toutes les classes des autres fichiers, voici un exemple :  
+   > C'est une fonction qui va aller chercher toutes les classes existantes dans les autres fichiers php :  
 > `spl_autoload_register(function ($class_name) {  
 > require 'classes/'. $class_name .'.php';}  
 > );`
