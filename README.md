@@ -96,7 +96,10 @@ exemple d’utilisation en PHP
    > 
 
 13) Quelle est la différence entre les instructions « require » et « include » en PHP
-   > 
+   > require et include sont toutes les 2 utilisées pour inclure le contenur d'un autre fichier.<br>
+   > La différence entre les deux se passe seulement lorsque le fichier en question est introuvable.<br>
+   > include va envoyer une alerte mais continuer le script (utile si le fichier en question est optionnel)<br>
+   > require va envoyer lui une erreur fatale, qui va totalement stopper l'execution du script.
 
 14) Comment effectuer une redirection en PHP ?
    > 
