@@ -67,7 +67,7 @@ et en donner des exemples (ne pas oublier le type d’une variable sans valeur)
 
 9) Quelles sont les différentes structures de contrôles qu’il existe en algorithmie ? Donner un 
 exemple pour chacune d’entre elles
-   > En algorithmie, il existe plusieurs structures de controle : 
+   > En algorithmie, il existe plusieurs structures de controle : <br>
    >Les basiques qu'on appelle 'structure séquentielle' :
    `x = 1;
    y = 2;
