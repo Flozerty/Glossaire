@@ -102,7 +102,8 @@ exemple d’utilisation en PHP
    > require va envoyer lui une erreur fatale, qui va totalement stopper l'execution du script.
 
 14) Comment effectuer une redirection en PHP ?
-   > 
+   > Pour faire une redirection on peut utiliser header. ex :<br>
+   `header('Location:monchemin')` 
 
 15) Définir la partie « front-end » et « back-end » d’une application
    > Le front-end est la partie visible d'une application ou d'un site web, la partie où l'on se concentre justement sur le UX - UI.
