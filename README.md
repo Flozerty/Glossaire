@@ -69,19 +69,19 @@ et en donner des exemples (ne pas oublier le type d’une variable sans valeur)
 exemple pour chacune d’entre elles
    > En algorithmie, il existe plusieurs structures de controle : <br>
    >Les basiques qu'on appelle 'structure séquentielle' :<br>
-   `x = 1;
-   y = 2;
-   z = x+y;`
+   `x = 1;`<br>`
+   y = 2;`<br>`
+   z = x+y;`<br>
    > Il  y a ensuite celles avec des condition, par exemple : <br>
-   `if(x<15) { console.log(x) } else { null }`
+   `if(x<15) { console.log(x) } else { null }`<br>
    >(On peut également y placer les switchcase)<br>
    > Il y a ensuite les boucles, représentées par while pour une répétition de la boucle tant qu'elle est vraie : <br>
-   `while (x<15) {console.log(x); x++}`
+   `while (x<15) {console.log(x); x++}`<br>
    > Les boucles for pour indiquer un nombre prédéfini de répétitions de la boucle :<br>
-   `for(i=0, i<5, i++){ console.log(i) }`
+   `for(i=0, i<5, i++){ console.log(i) }`<br>
    > Et enfin les forEach qui permettent d'accéder a un ensemble d'éléments ou de variables et de faire une action sur chacune d'elles :<br>
-   `table = [1,2,3,4,5];
-   table.forEach(element, () => { console.log(element) }`
+   `table = [1,2,3,4,5]; `<br>`
+   table.forEach(element, () => { console.log(element) }`<br>
 
 10) Quelle est la fonction PHP permettant de demander la longueur d’une chaîne de caractères ?
    > strlen('phrase').
