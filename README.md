@@ -88,7 +88,9 @@ exemple pour chacune d’entre elles
 
 11) Qu’est-ce qu’une session ? Quelle fonction permet de démarrer une session en PHP ? Donner un 
 exemple d’utilisation en PHP
-   > 
+   > Une session est démarrée par session_start() en PHP. Elle peut être utilisée pour recueillir des informations sur les actions de l'utilisateur pour lui renvoyer des données personnalisée à travers la superglobale $_SESSION, comme des notifications après une action par exemple.
+`$_SESSION['user'] = 'Bob';`<br>
+`echo 'Bonjour, '.$_SESSION['user'];`
 
 12) Qu’est-ce qu’un cookie ? Donner un exemple d’utilisation en PHP
    > 
