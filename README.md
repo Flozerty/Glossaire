@@ -106,14 +106,17 @@ exemple d’utilisation en PHP
    `header('Location:monchemin')` 
 
 15) Définir la partie « front-end » et « back-end » d’une application
-   > Le front-end est la partie visible d'une application ou d'un site web, la partie où l'on se concentre justement sur le UX - UI.
+   > Le front-end est la partie visible d'une application ou d'un site web, la partie où l'on se concentre justement sur le UX - UI.<br>
    > Le back-end est la partie que l'utilisateur ne voit pas, la partie invisible, côté serveur, qui peut être la base de donnée, les requêtes envoyées au serveur
 
 16) Définir le contrôle de version ? Qu’est-ce que Git ?
-   > 
+   > Le contrôle de version permet de gérer et d'enregistrer toutes les modifications apportées à l'ensemble des fichiers d'un projet au fil du temps.<br>
+   > Git est un contrôleur de version "décentralisé", qui permet a chaque développeur d'un projet de conserver son propre historique de modifications sur son ordinateur.
 
 17) Qu’est-ce qu’un CMS ? Citer au moins 2 exemples
-   > 
+   > Content Management System.<br>
+   >C'est un logiciel qui permet de créer et d'organiser plus facilement le contenu d'un site web avec très peu de connaissances en programmation.
+   >exemples : Drupal et Wordpress
 
 
 ## Front-end
