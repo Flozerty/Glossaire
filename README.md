@@ -25,7 +25,7 @@ permettant ce contexte.
    > Il faut installer un environnement côté serveur. Deux exemple : Laragon que l'on utilise en cours, et XAMPP
 
 2) Qu’est-ce qu’un algorithme ?
-   > 
+   > Un algorithme est une suite de calculs ou d'étapes qui ont des valeurs en entrée et qui donnent un résultat.
 
 3) Qu’est-ce qu’une variable ? Par quel symbole est préfixée une variable en PHP ?
    >une variable est une valeur de n'importe quel type. Elle est préfixée d'un $
