@@ -154,7 +154,7 @@ exemple d’utilisation en PHP
    > 
 
 12) Qu’est-ce qu’une fonction anonyme en Javascript ?
-   > 
+   > C'est une fonction a laquelle on n'a pas donné  de nom, car elle n'a pas pour but d'être rappelée à un autre endroit du code.
 
 13) Quelle méthode JavaScript est utilisée pour ajouter un élément à la fin d'un tableau ?
    > push()
