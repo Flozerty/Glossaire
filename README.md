@@ -8,15 +8,15 @@ de chaque lettre initiale.
 
 • [Général](#général)
 • [Front-end](#front-end)
-• [UX / UI](#ux-/-ui)
+• [UX / UI](#ux--ui)
 • [Programmation Orientée Objet](#programmation-orientée-objet)
 • [Architecture](#architecture)
-• [Modélisation / Base de données](#modélisation-/-Base-de-données)
+• [Modélisation / Base de données](#modélisation--base-de-données)
 • [Symfony](#symfony)
 • [Sécurité](#sécurité)
 • [RGPD](#rgpd)
 • [SEO](#seo)
-• [Gestion de projets / DevOps](#gestion-de-projets---devops)
+• [Gestion de projets / DevOps](#gestion-de-projets--devops)
 • [English](#english)
 
 ## Général
