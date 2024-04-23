@@ -6,18 +6,18 @@ vocabulaire technique approprié. Ce document vous servira comme base de révisi
 A chaque fois qu’un acronyme est cité dans le glossaire, il sera impératif de donner la signification 
 de chaque lettre initiale.
 
-• [Général](#général)
-• [Front-end](#front-end)
-• [UX / UI](#ux--ui)
-• [Programmation Orientée Objet (POO)](#programmation-orientée-objet-poo)
-• [Architecture](#architecture)
-• [Modélisation / Base de données](#modélisation--base-de-données)
-• [Symfony](#symfony)
-• [Sécurité](#sécurité)
-• [RGPD](#rgpd)
-• [SEO](#seo)
-• [Gestion de projets / DevOps](#gestion-de-projets--devops)
-• [English](#english)
+• [Général](#général)<br>
+• [Front-end](#front-end)<br>
+• [UX / UI](#ux--ui)<br>
+• [Programmation Orientée Objet (POO)](#programmation-orientée-objet-poo)<br>
+• [Architecture](#architecture)<br>
+• [Modélisation / Base de données](#modélisation--base-de-données)<br>
+• [Symfony](#symfony)<br>
+• [Sécurité](#sécurité)<br>
+• [RGPD](#rgpd)<br>
+• [SEO](#seo)<br>
+• [Gestion de projets / DevOps](#gestion-de-projets--devops)<br>
+• [English](#english)<br>
 
 ## Général
 1) Quel est l’environnement à installer pour exécuter un script PHP ? Citer 2 exemples de logiciels 
