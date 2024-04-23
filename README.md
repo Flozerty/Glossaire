@@ -11,7 +11,7 @@ de chaque lettre initiale.
 • [UX / UI](#ux-ui)
 • [Programmation Orientée Objet](#programmation-orientée-objet)
 • [Architecture](#architecture)
-• [Modélisation / base de données](#modélisation---base-de-données)
+• [Modélisation / Base de données](#modélisation---Base-de-données)
 • [Symfony](#symfony)
 • [Sécurité](#sécurité)
 • [RGPD](#rgpd)
