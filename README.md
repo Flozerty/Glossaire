@@ -376,7 +376,7 @@ contient l’intégralité des dépendances du projet ?
 
 ## RGPD
 1) Qu’est-ce que le RGPD ?
-
+> Règlement Général de la Protection des Données.
 2) Quel est son objectif principal ?
 
 3) Quelle est la date d’entrée en vigueur du RGPD ?
