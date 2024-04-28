@@ -93,7 +93,9 @@ exemple d’utilisation en PHP
 `echo 'Bonjour, '.$_SESSION['user'];`
 
 12) Qu’est-ce qu’un cookie ? Donner un exemple d’utilisation en PHP
-   > 
+   > un cookiesert à stocker des informationsqui peuvent être réutilisées plus tard par le site web.
+   > un exemple d'utilisation : `setcookie("user", "Bob", time() + 86400);` créait un cookie qui avec pour la clé 'user', la valeur 'Bob' jusqu'à (time() + 86400) = 24h.
+   > On accède au cookie avec la superglobale : `$_COOKIE["user"];`
 
 13) Quelle est la différence entre les instructions « require » et « include » en PHP
    > require et include sont toutes les 2 utilisées pour inclure le contenur d'un autre fichier.<br>
