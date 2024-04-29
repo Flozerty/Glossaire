@@ -248,10 +248,12 @@ exemple d’utilisation en PHP
    > 
 
 15) Qu’est-ce qu’un « autoload » ?
-   > C'est une fonction qui va aller chercher toutes les classes existantes dans les autres fichiers php :  
-   >  `spl_autoload_register(function ($class_name) {  
-   >  require 'classes/'. $class_name .'.php';}  
-   >  );`
+   > C'est une fonction qui va aller chercher toutes les classes existantes dans les autres fichiers php :
+   ```php 
+   spl_autoload_register(function ($class_name) {  
+      require 'classes/'. $class_name .'.php';
+   });
+   ```
 
 16) Comment appelle-t-on en français les « getters » et les « setters » ?
    > Les getters renvoient la valeur de la variable et les setters permettent de la changer.
@@ -267,7 +269,7 @@ exemple d’utilisation en PHP
    > On peut ensuite les désérialiser afin de retrouver l'objet / tableau d'origine.
    ```php
    $original_data = unserialize($serialized_data);
-      print_r($original_data);
+   print_r($original_data);
    ```
 
 ## Architecture 
