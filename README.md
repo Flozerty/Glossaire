@@ -264,18 +264,24 @@ exemple d’utilisation en PHP
 1) Qu’est-ce que l’architecture client / serveur ? Grâce à quel type de requête peut-on interroger le 
 serveur. Définir l’acronyme de ce type de requête. Si on ajoute un « S » à cet acronyme, expliquer 
 la différence
+> Dans l'architecture serveur / client, on distingue les deux entités comme suit : <br>
+> Le client envoie des requêtes au serveur.<br>
+> Le serveur reçoit les requêtes du client, effectue des opérations demandées et renvoie les résultats au client. <br>
+> Le client traite les réponses.<br>
+> Pour interroger le serveur, on envoie des requêtes "HTTP" (Hypertext Transfer Protocol).<br>
+> Avec un "S", HTTPS devient "Hypertext Transfer Protocol Secure". La différence est que cette version est plus sécurisée en ajoutant une couche de sécurité avec des chiffrements pour éviter que les données passantes entre le serveur et le client ne soient interceptées.
 
-2) Donner la définition d’un design pattern. Citer au moins 3 exemples de design pattern
+3) Donner la définition d’un design pattern. Citer au moins 3 exemples de design pattern
 
-3) Qu’est-ce que l’architecture MVC ?
+4) Qu’est-ce que l’architecture MVC ?
 
-4) Quel est le rôle de chaque couche du design pattern MVC : Model, View, Controller ?
+5) Quel est le rôle de chaque couche du design pattern MVC : Model, View, Controller ?
 
-5) Quels sont les avantages de l’architecture MVC ?
+6) Quels sont les avantages de l’architecture MVC ?
 
-6) Existe-t-il des variantes à l’architecture MVC ?
+7) Existe-t-il des variantes à l’architecture MVC ?
 
-7) Qu’est-ce qu’une API ? Définir l’architecture REST
+8) Qu’est-ce qu’une API ? Définir l’architecture REST
 
 
 ## Modélisation / Base de données
