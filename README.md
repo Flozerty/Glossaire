@@ -165,7 +165,9 @@ exemple d’utilisation en PHP
    > C'est un moyen utilisé en CSS afin d'attribuer des styles en fonction du type ou de la taille de l'appareil de l'utilisateur.
 
 15) Qu’est-ce qu’un pseudo élément en CSS ?
-   > 
+   > En CSS on peut "intégrer" un élément sans avoir a modifier le code HTML. Par exemple : 
+   > `p::before { content: "Hell yeah!"; }`
+   > avant tous les paragraphes p , il y aura le texte "Hell yeah!"   
 
 16) Qu’est-ce que Bootstrap ? Donner d’autres exemples équivalent
    > Un frameWork CSS 
