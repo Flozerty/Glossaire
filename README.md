@@ -257,14 +257,18 @@ exemple d’utilisation en PHP
    > Les getters renvoient la valeur de la variable et les setters permettent de la changer.
 
 17) Qu’est-ce que la sérialisation en PHP ?
-   > La sérialisation permet de stocker dans une variable des données complexes comme un tableau ou un objet, sous forme de caractères. C'est utilisé afin de les stocker en base de données (par exemple).
-   > On peut ensuite les désérialiser afin de retrouver l'objet / tableau d'origine. Ex :
-   > `$data = array("name" => "John", "age" => 30, "city" => "New York");
+   > La sérialisation permet de stocker dans une variable des données complexes comme un tableau ou un objet, sous forme de chaines de caractères. C'est utilisé afin de les stocker en base de données (par exemple).<br>
+   > Ex :
+   ```php
+   $data = array("name" => "John", "age" => 30, "city" => "New York");
    $serialized_data = serialize($data);
    echo $serialized_data;
+   ```
+   > On peut ensuite les désérialiser afin de retrouver l'objet / tableau d'origine.
+   ```php
    $original_data = unserialize($serialized_data);
-   print_r($original_data);`
-
+      print_r($original_data);
+   ```
 
 ## Architecture 
 1) Qu’est-ce que l’architecture client / serveur ? Grâce à quel type de requête peut-on interroger le 
