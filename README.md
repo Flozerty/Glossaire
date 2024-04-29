@@ -206,7 +206,8 @@ exemple d’utilisation en PHP
    
 ## Programmation orientée objet (POO)
 1) Donner une définition de la programmation orientée objet
-   > 
+   > La POO consiste a organiser son code autour d' "objets" / entités, dans des classes ayant des attributs et des méthodes associées.
+   > Les principes fondamentaux de la POO incluent l'encapsulation, l'héritage et le polymorphisme. (voir plus bas)
 
 2) Qu’est-ce qu’une classe ? Comment la déclare-t-on ?
    > Une classe est un ensemble d'attributs et se déclare avec un constructor.
@@ -217,14 +218,17 @@ exemple d’utilisation en PHP
 4) Définir la notion de propriété / attribut / méthode
    > 
 
-5) Qu’est-ce que la visibilité d’une propriété ou d’une méthode ? Citerles différentstypes de visibilité
-   > 
+5) Qu’est-ce que la visibilité d’une propriété ou d’une méthode ? Citer les différents types de visibilité
+   > La visibilité indique où la propriété ou la méthode est accessible dans le code.
+   > Public : Elle est accessible partout
+   > Protected : Elle n'est accessible que dans la classe où elle est créée et dans ses classes enfant
+   > Private : Elle n'est accessible que dans la classe où elle est créée.
 
 6) Quelle est la méthode spécifique utilisée pour créer un nouvel objet à partir d’une classe ?
    > 
 
 7) Qu’est-ce que l’encapsulation ?
-   > 
+   > L'encapsulation permet de regrouper données et méthodes dans un même objet, limitant ainsi leur accès et leur manipulation depuis l'extérieur.
 
 8) Que signifie « étendre une classe » ? Quelle est le concept clé mis en œuvre ? Donner un exemple
    > 
