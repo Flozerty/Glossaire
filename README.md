@@ -331,10 +331,10 @@ la différence
 Définir la méthode Merise
 > 
 
-2) Quelles sont les 3 étapes principales de la méthode Merise ?
-> a. Analyse, conception et réalisation
-> b. ~~Planification, exécution et contrôle~~
-> c. ~~Création, modification et suppression~~
+2) Quelles sont les 3 étapes principales de la méthode Merise ?<br>
+a. Analyse, conception et réalisation<br>
+b. ~~Planification, exécution et contrôle~~<br>
+c. ~~Création, modification et suppression~~<br>
 
 3) Qu’est-ce qu’un modèle conceptuel de données (MCD) en Merise ?
 > 
