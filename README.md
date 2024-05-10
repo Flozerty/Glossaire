@@ -163,7 +163,7 @@ exemple d’utilisation en PHP
    > `<a href='lienhypertexte'>le lien</a>`
 
 8) Qu’est-ce qu’une requête AJAX ?
-   > 
+   > Elle permet à une page web de mettre à jour son contenu de manière "asynchrone" en arrière-plan sans avoir à recharger toute la page.
 
 9) Quel sélecteur CSS permet de sélectionner tous les éléments d’une classe spécifique ? D’un identifiant spécifique ?
    > "." pour sélectionner une classe et "#" pour un identifiant.
