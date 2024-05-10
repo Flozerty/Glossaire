@@ -404,24 +404,49 @@ lignes appelées ___ et de colonnes appelées ___
 16) Quelles sont les clauses qui permettent de :<br>
 
 a. Insérer un nouvel enregistrement dans une table
-> 
+```php
+INSERT INTO table (key1, key2, key3)
+VALUES (valeur1, valeur2, valeur3)
+``` 
 b. Modifier un enregistrement dans une table
-> 
+```php
+UPDATE table
+SET key = valeur, key = valeur, ...
+WHERE ...
+``` 
 c. Supprimer un enregistrement dans une table
-> 
+```php
+DELETE FROM table 
+WHERE ...
+``` 
 d. Supprimer la base de données
-> 
+```php
+DROP DATABASE nom_DB
+```
 e. Filtrer les résultats d’une requête SQL
-> 
+```php
+SELECT colonne1, colonne2, ...
+FROM table
+WHERE ...;
+```
 f. Trier les résultats d’une requête SELECT
-> 
+```php
+ORDER BY colonne ( DESC/ASC, colonne2 DESC/ASC )
+```
 g. Regrouper les résultats d'une requête SELECT en fonction d'une colonne spécifique
-> 
+```php
+SELECT colonne1, COUNT(colonne2)/SUM(colonne2)
+FROM table
+GROUP BY colonne1;
+```
 h. Concaténer 2 chaînes de caractères 
-> 
+```php
+SELECT CONCAT(blabla1, blabla2) AS blablabla
+```
 
 17) Comment se connecter à une base de données en PHP ? Quelle est la classe native utilisée ?
-> 
+> La classe native utilisée est PDO.
+> On créait donc un nouvel objet PDO en renseignant serveur, nom de la bdd, et toute information encore nécessaire à la connexion.
 
 ## Symfony
 1) Qu’est-ce que Symfony ?
