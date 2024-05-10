@@ -445,7 +445,7 @@ SELECT CONCAT(blabla1, blabla2) AS blablabla
 ```
 
 17) Comment se connecter à une base de données en PHP ? Quelle est la classe native utilisée ?
-> La classe native utilisée est PDO.
+> La classe native utilisée est PDO.<br>
 > On créait donc un nouvel objet PDO en renseignant serveur, nom de la bdd, et toute information encore nécessaire à la connexion.
 
 ## Symfony
