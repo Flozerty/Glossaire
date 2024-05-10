@@ -457,10 +457,11 @@ contient l’intégralité des dépendances du projet ?
 
 ## Sécurité
 1) Qu’est-ce que l’injection SQL ? Comment s’en prémunir ?
-> 
+>  Elle consiste à faire de l'insertion de code SQL non autorisé dans des requêtes SQL afin d'avoir accès à la base de données.
+> On s'en défend en utilisant prepare(), puis execute() afin de préparer un moule non modifiable de la requête SQL avant de l'exécuter en y insérant des variables qui seront au préalable filtrées.
 
 2) Qu’est-ce que la faille XSS ? Comment s’en prémunir ?
-> 
+> La faille XSS consiste à injecter du script dans les pages web.
 
 3) Qu’est-ce que la faille CSRF ? Comment s’en prémunir ?
 > 
