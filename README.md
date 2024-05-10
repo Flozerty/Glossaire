@@ -327,13 +327,14 @@ la différence
 
 
 ## Modélisation / Base de données
-1) Qu’est-ce que la modélisation de données ? Définir la méthode Merise
+1) Qu’est-ce que la modélisation de données ?<br>
+Définir la méthode Merise
 > 
 
 2) Quelles sont les 3 étapes principales de la méthode Merise ?
-a. Analyse, conception et réalisation
-b. ~~Planification, exécution et contrôle~~
-c. ~~Création, modification et suppression~~
+> a. Analyse, conception et réalisation
+> b. ~~Planification, exécution et contrôle~~
+> c. ~~Création, modification et suppression~~
 
 3) Qu’est-ce qu’un modèle conceptuel de données (MCD) en Merise ?
 > 
