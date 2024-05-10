@@ -172,7 +172,8 @@ exemple d’utilisation en PHP
    > Le responsive design s'adapte aux différents types et tailles d'appareils pour que l'utilisateur ait une meilleure expérience. 
 
 11) Qu’est-ce que le templating ?
-   > 
+   > Le templating consiste à créer des modèles réutilisables pour l'affichage de données dynamiques. 
+   >  Plutôt que d'écrire le code HTML directement dans le fichier, on va simplement définir où les données dynamiques doivent être insérées.
 
 12) Qu’est-ce qu’une fonction anonyme en Javascript ?
    > C'est une fonction a laquelle on n'a pas donné  de nom, car elle n'a pas pour but d'être rappelée à un autre endroit du code.
