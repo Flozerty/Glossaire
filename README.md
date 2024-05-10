@@ -351,10 +351,13 @@ c. ~~Création, modification et suppression~~<br>
 
 a. Entité
 > exprime une personne / chose / lieu / (une classe). "Ensemble d'informations à traiter"
+
 b. Relation
 > Association relative entre les entités, relation qu'il y a entre elles. (porte bien son nom)
+
 c. Cardinalité
 > relativité entre les entités, précisant le lien et la quantité minimale et maximale qu'une entité puisse avoir d'une autre entité.
+
 d. Clé primaire / clé étrangère
 > Clé primaire : identifiant unique d'une entité.
 > Clé étrangère : valeur récupérée de l'identifiant d'une autre entité.
@@ -368,9 +371,11 @@ d. Clé primaire / clé étrangère
 8) Définir les notions suivantes :<br>
 
 a. SQL
-> 
+>
+
 b. MySQL
-> 
+>
+
 c. SGBD (donner 2 exemples de SGBD)
 > 
 
