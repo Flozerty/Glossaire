@@ -360,6 +360,7 @@ d. Clé primaire / clé étrangère
 > 
 
 8) Définir les notions suivantes :<br>
+
 a. SQL
 > 
 b. MySQL
@@ -390,6 +391,7 @@ lignes appelées ___ et de colonnes appelées ___
 > 
 
 16) Quelles sont les clauses qui permettent de :<br>
+
 a. Insérer un nouvel enregistrement dans une table
 > 
 b. Modifier un enregistrement dans une table
