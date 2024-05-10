@@ -328,8 +328,13 @@ la différence
 
 ## Modélisation / Base de données
 1) Qu’est-ce que la modélisation de données ?<br>
+> Structuration des données prenant en compte les relations / associations relatives aux données.
 Définir la méthode Merise
-> 
+> (Méthode d’Etude et de Réalisation Informatique pour les Systèmes d’Entreprises)
+> ensemble de méthodes, représentations, de modélisation.
+
+> conceptuel => organisationnel / logique => physique
+> MCD => MLD
 
 2) Quelles sont les 3 étapes principales de la méthode Merise ?<br>
 a. Analyse, conception et réalisation<br>
@@ -337,24 +342,25 @@ b. ~~Planification, exécution et contrôle~~<br>
 c. ~~Création, modification et suppression~~<br>
 
 3) Qu’est-ce qu’un modèle conceptuel de données (MCD) en Merise ?
-> 
+> Le MCD se concentre sur la représentation des entités et les relations entre ces entités d'un projet.
 
 4) Qu’est-ce qu’un modèle logique de données (MLD) en Merise ?
-> 
+> Le MLD est une représentation plus concrète des données dans la base de donnée, qui prend en compte les spécificités rencontrées dans la gestion de bases de données. 
 
 5) Donner la définition des mots suivants :<br>
 
 a. Entité
-> 
+> exprime une personne / chose / lieu / (une classe). "Ensemble d'informations à traiter"
 b. Relation
-> 
+> Association relative entre les entités, relation qu'il y a entre elles. (porte bien son nom)
 c. Cardinalité
-> 
+> relativité entre les entités, précisant le lien et la quantité minimale et maximale qu'une entité puisse avoir d'une autre entité.
 d. Clé primaire / clé étrangère
-> 
+> Clé primaire : identifiant unique d'une entité.
+> Clé étrangère : valeur récupérée de l'identifiant d'une autre entité.
 
 6) Que devient une relation de type « Many To Many » dans le modèle logique de données ?
-> 
+> elle devient une nouvelle table intermédiaire (table de liaison) entre ces entités, et portant les clés étrangères des entités en question 
 
 7) Qu’est-ce qu’une base de données ?
 > 
