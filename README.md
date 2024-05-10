@@ -342,7 +342,7 @@ c. ~~Création, modification et suppression~~<br>
 4) Qu’est-ce qu’un modèle logique de données (MLD) en Merise ?
 > 
 
-5) Donner la définition des mots suivants :
+5) Donner la définition des mots suivants :<br>
 a. Entité
 > 
 b. Relation
@@ -358,7 +358,7 @@ d. Clé primaire / clé étrangère
 7) Qu’est-ce qu’une base de données ?
 > 
 
-8) Définir les notions suivantes :
+8) Définir les notions suivantes :<br>
 a. SQL
 > 
 b. MySQL
@@ -388,7 +388,7 @@ lignes appelées ___ et de colonnes appelées ___
 15) Qu’est ce qu’un CRUD dans le contexte d’une base de données ?
 > 
 
-16) Quelles sont les clauses qui permettent de :
+16) Quelles sont les clauses qui permettent de :<br>
 a. Insérer un nouvel enregistrement dans une table
 > 
 b. Modifier un enregistrement dans une table
