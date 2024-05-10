@@ -69,9 +69,11 @@ et en donner des exemples (ne pas oublier le type d’une variable sans valeur)
 exemple pour chacune d’entre elles
    > En algorithmie, il existe plusieurs structures de controle : <br>
    >Les basiques qu'on appelle 'structure séquentielle' :<br>
-   `x = 1;`<br>
-   `y = 2;`<br>
-   `z = x+y;`<br>
+   ```php
+   x = 1;
+   y = 2;
+   z = x+y;
+   ```
    > Il  y a ensuite celles avec des condition, par exemple : <br>
    ```php
    if(x<15) {
