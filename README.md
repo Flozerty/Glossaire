@@ -314,7 +314,9 @@ la différence
 > 
 
 5) Quel est le rôle de chaque couche du design pattern MVC : Model, View, Controller ?
-> 
+> Model : interaction avec base de donnée<br>
+> Controller : traitement<br>
+> View : Affichage<br>
 
 6) Quels sont les avantages de l’architecture MVC ?
 > 
