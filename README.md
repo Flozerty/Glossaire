@@ -269,13 +269,15 @@ exemple d’utilisation en PHP
 
 
 12) Définir une méthode / classe abstraite ?
-   > 
+   > Une classe abstraite ne peut pas être instanciée, c'est-à-dire qu'on ne peut pas créer d'objet à partir de cette classe. Elle sert simplement de modèle pour d'autres classes.
 
 13) Définir le chaînage de méthodes
-   > 
+   > Le chaînage de méthodes permet d'appeler plusieurs méthodes sur un même objet dans une seule ligne de code. 
+   > Chaque méthode retourne l'objet lui-même pour permettre l'appel de la méthode suivante.
 
 14) Qu’est-ce que la méthode __toString() ? Existe-t-il d’autres méthodes « magiques »
-   > 
+   > La méthode __toString() est utilisée pour définir comment un objet est converti en chaîne de caractères. 
+   > Il existe d'autres méthodes magiques en PHP, comme __construct(), __destruct(), __get(), __set(), __call(), etc.
 
 15) Qu’est-ce qu’un « autoload » ?
    > C'est une fonction qui va aller chercher toutes les classes existantes dans les autres fichiers php :
@@ -286,7 +288,7 @@ exemple d’utilisation en PHP
    ```
 
 16) Comment appelle-t-on en français les « getters » et les « setters » ?
-   > Les getters renvoient la valeur de la variable et les setters permettent de la changer.
+   > Les getters renvoient la valeur d'une propriété et les setters permettent de la changer.
 
 17) Qu’est-ce que la sérialisation en PHP ?
    > La sérialisation permet de stocker dans une variable des données complexes comme un tableau ou un objet, sous forme de chaines de caractères. C'est utilisé afin de les stocker en base de données (par exemple).<br>
