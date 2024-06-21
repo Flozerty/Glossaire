@@ -398,7 +398,7 @@ a. SQL
 > (Structured Query Language) est un langage de programmation utilisé pour gérer et manipuler des bases de données relationnelles.
 
 b. MySQL
-> MySQL est un système de gestion de bases de données relationnelles (SGBD) qui utilise SQL comme langage de requête. 
+> MySQL est un SGBD qui utilise SQL comme langage de requête. 
 
 c. SGBD (donner 2 exemples de SGBD)
 > SGBD (Système de Gestion de Bases de Données) est un logiciel qui permet de créer, gérer et manipuler des bases de données. Exemples :
@@ -410,24 +410,38 @@ lignes appelées ___ et de colonnes appelées ___
 > Dans une base de données, les données sont stockées dans des tables. Celles-ci sont constituées de lignes appelées enregistrements et de colonnes appelées champs.
 
 10) Quelle est la différence entre une base de données relationnelle et non relationnelle ?
-> - Base de données relationnelle : Organise les données en tables avec des relations entre elles. Les données sont structurées de manière rigide et utilisent SQL pour les manipuler.
-> - Base de données non relationnelle : Organise les données sous forme de documents, de paires clé-valeur, de colonnes larges ou de graphes.
-> Elles sont plus flexibles et peuvent gérer des types de données variés sans schéma fixe.
+> - Base de données relationnelle : Organise les données en tables avec des relations entre elles (clés primaires / clés étrangères). Les données sont structurées de manière rigide et on utilise SQL pour les manipuler.
+> - Base de données non relationnelle : Organise les données sous forme de documents, de paires clé-valeur (comme JSON) ou de graphes.
+> Elles sont plus flexibles et peuvent gérer des types de données variés sans suivre de règles strictes.
  
 11) Qu’est-ce qu’une jointure dans une base de données ? En existe-t-il plusieurs ? Si oui lesquelles ?
-> 
+> Une jointure est une opération en SQL qui permet de combiner des lignes de deux ou plusieurs tables en fonction d'une condition commune.
+> - INNER JOIN : Retourne les lignes où il y a une correspondance dans les deux tables.
+> - LEFT JOIN : Retourne toutes les lignes de la table de gauche, et les lignes correspondantes de la table de droite, ou NULL si aucune correspondance n'est trouvée.
+> - RIGHT JOIN : Retourne toutes les lignes de la table de droite, et les lignes correspondantes de la table de gauche, ou NULL si aucune correspondance n'est trouvée.
+> - FULL JOIN : Retourne toutes les lignes lorsqu'il y a une correspondance dans une des tables.
 
 12) A quoi sert une vue dans une base de données ?
 > 
 
 13) Qu’est-ce que l’intégrité référentielle dans une base de données ?
-> 
+> L'intégrité référentielle garantit que les relations entre les tables restent cohérentes.
+> Par exemple, si une table contient une clé étrangère reliant à une autre table, l'intégrité référentielle assure que cette clé étrangère correspond à une clé primaire valide dans la table liée.
 
 14) Quelles sont les fonctions d’agrégation en SQL ?
-> 
+> Les fonctions d'agrégation en SQL permettent de réaliser des calculs sur un ensemble de valeurs et de retourner une valeur unique. Exemples :
+> - COUNT() : Compte le nombre de lignes.
+> - SUM() : Calcule la somme des valeurs.
+> - AVG() : Calcule la moyenne des valeurs.
+> - MAX() : Retourne la valeur maximale.
+> - MIN() : Retourne la valeur minimale.
 
 15) Qu’est ce qu’un CRUD dans le contexte d’une base de données ?
-> 
+> CRUD est un acronyme pour les quatre opérations de base qu'on peut réaliser sur les données dans une base de données :
+> - Create (Créer) : Ajouter de nouvelles données.
+> - Read (Lire) : Lire ou récupérer des données existantes.
+> - Update (Mettre à jour) : Modifier des données existantes.
+> - Delete (Supprimer) : Effacer des données existantes.
 
 16) Quelles sont les clauses qui permettent de :<br>
 
