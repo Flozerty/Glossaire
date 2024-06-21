@@ -316,7 +316,13 @@ la différence
 > Avec un "S", HTTPS devient "Hypertext Transfer Protocol Secure". La différence est que cette version est plus sécurisée en ajoutant une couche de sécurité avec des chiffrements pour éviter que les données passantes entre le serveur et le client ne soient interceptées.
 
 3) Donner la définition d’un design pattern. Citer au moins 3 exemples de design pattern
-> 
+> Un design pattern est une solution réutilisable à un problème courant dans le développement de logiciels.
+> Exemples de design patterns :
+- Singleton : Assure qu'une classe n'a qu'une seule instance et fournit un point d'accès global à cette instance.
+- Observer : Permet à un objet de notifier d'autres objets lorsqu'un changement d'état se produit.
+- Factory : Définit une interface pour créer des objets, mais laisse aux sous-classes le soin de décider quelle classe instancier.
+
+
 
 4) Qu’est-ce que l’architecture MVC ?
 > 
