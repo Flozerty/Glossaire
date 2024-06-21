@@ -323,21 +323,31 @@ la différence
 > - Factory : Définit une interface pour créer des objets, mais laisse aux sous-classes le soin de décider quelle classe instancier.
 
 4) Qu’est-ce que l’architecture MVC ?
-> 
+> L'architecture MVC est une façon d'organiser le code pour séparer les différentes responsabilités d'une application web.
+> Cela permet d'avoir un code plus clair et plus facile à maintenir.
 
 5) Quel est le rôle de chaque couche du design pattern MVC : Model, View, Controller ?
-> Model : interaction avec base de donnée<br>
-> Controller : traitement<br>
-> View : Affichage<br>
+> - Model : interaction avec base de donnée, il gère les données.<br>
+> - Controller : Traitement. Il reçoit les entrées de l'utilisateur via la View, fait la demande appropriée au Model, et renvoie la lréponse à la View.<br>
+> - View : Affichage. Elle présente les données à l'utilisatuer.<br>
 
 6) Quels sont les avantages de l’architecture MVC ?
-> 
+> - Séparation des responsabilités : Chaque couche a un rôle spécifique, ce qui rend le code plus clair et plus organisé.
+> - Facilité de maintenance : Il est plus facile de modifier une partie de l'application sans affecter les autres parties.
 
 7) Existe-t-il des variantes à l’architecture MVC ?
-> 
+> Oui, il existe plusieurs variantes de l'architecture MVC, telles que :
+> - MVVM (Model-View-ViewModel) : Sépare la logique de la présentation des données.
+> - MVP (Model-View-Presenter) : Le Presenter gère les interactions entre la View et le Model, mais est plus actif que le Controller dans MVC.
+> - HMVC (Hierarchical Model-View-Controller) : Utilise des modules MVC imbriqués pour organiser des applications complexes.
+
 
 8) Qu’est-ce qu’une API ? Définir l’architecture REST
-> 
+> API (Application Programming Interface) : Une API est un ensemble de règles qui permet à des applications de communiquer entre elles. C'est comme un traducteur qui permet à différents logiciels de se parler.
+
+> Architecture REST (Representational State Transfer) : REST est un style d'architecture pour les API web.
+> Il utilise des méthodes HTTP standard comme GET, POST, PUT et DELETE pour effectuer des opérations sur les ressources.
+> Les ressources sont identifiées par des URL, et les opérations sont réalisées de manière stateless, ce qui signifie que chaque requête est indépendante des autres.
 
 
 ## Modélisation / Base de données
