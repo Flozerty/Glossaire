@@ -390,26 +390,30 @@ d. Clé primaire / clé étrangère
 > elle devient une nouvelle table intermédiaire (table de liaison) entre ces entités, et portant les clés étrangères des entités en question 
 
 7) Qu’est-ce qu’une base de données ?
-> 
+> Une base de données est un système organisé qui permet de stocker, gérer et récupérer des informations. Elle contient des collections de données structurées de manière à faciliter leur accès, leur gestion et leur mise à jour.
 
 8) Définir les notions suivantes :<br>
 
 a. SQL
->
+> (Structured Query Language) est un langage de programmation utilisé pour gérer et manipuler des bases de données relationnelles.
 
 b. MySQL
->
+> MySQL est un système de gestion de bases de données relationnelles (SGBD) qui utilise SQL comme langage de requête. 
 
 c. SGBD (donner 2 exemples de SGBD)
-> 
+> SGBD (Système de Gestion de Bases de Données) est un logiciel qui permet de créer, gérer et manipuler des bases de données. Exemples :
+> - Oracle Database
+> - PostgreSQL
 
 9) Dans une base de données, les données sont stockées dans des ___. Celles-ci sont constituées de 
 lignes appelées ___ et de colonnes appelées ___
-> 
+> Dans une base de données, les données sont stockées dans des tables. Celles-ci sont constituées de lignes appelées enregistrements et de colonnes appelées champs.
 
 10) Quelle est la différence entre une base de données relationnelle et non relationnelle ?
-> 
-
+> - Base de données relationnelle : Organise les données en tables avec des relations entre elles. Les données sont structurées de manière rigide et utilisent SQL pour les manipuler.
+> - Base de données non relationnelle : Organise les données sous forme de documents, de paires clé-valeur, de colonnes larges ou de graphes.
+> Elles sont plus flexibles et peuvent gérer des types de données variés sans schéma fixe.
+ 
 11) Qu’est-ce qu’une jointure dans une base de données ? En existe-t-il plusieurs ? Si oui lesquelles ?
 > 
 
