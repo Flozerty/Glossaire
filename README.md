@@ -241,28 +241,32 @@ exemple d’utilisation en PHP
    > Méthode : Ce sont les actions que l'on peut faire avec un objet. Par exemple, une voiture (objet) peut avoir des méthodes comme démarrer(), accélérer() ou freiner().
 
 5) Qu’est-ce que la visibilité d’une propriété ou d’une méthode ? Citer les différents types de visibilité
-   > La visibilité indique où la propriété ou la méthode est accessible dans le code.
-   > Public : Elle est accessible partout
-   > Protected : Elle n'est accessible que dans la classe où elle est créée et dans ses classes enfant
-   > Private : Elle n'est accessible que dans la classe où elle est créée.
+   > La visibilité indique où la propriété / méthode est accessible dans le code.
+   > Public : Accessible partout
+   > Protected : Accessible seulement dans la classe où elle est créée et dans ses classes enfant
+   > Private : Accessible seulement dans la classe où elle est créée.
 
 6) Quelle est la méthode spécifique utilisée pour créer un nouvel objet à partir d’une classe ?
-   > 
+   > la méthode __construct() permet de créer un nouvel objet.
 
 7) Qu’est-ce que l’encapsulation ?
    > L'encapsulation permet de regrouper données et méthodes dans un même objet, limitant ainsi leur accès et leur manipulation depuis l'extérieur.
 
 8) Que signifie « étendre une classe » ? Quelle est le concept clé mis en œuvre ? Donner un exemple
-   > 
+   > Étendre une classe signifie créer une nouvelle classe basée sur une classe existante, en ajoutant ou en modifiant des fonctionnalités. C'est ce qu'on appelle l'héritage.
+   > Par exemple, si on a une classe "Animal", on peut créer une classe "Chien" qui hérite des attributs et méthodes d'"Animal" ( chien extends animal ) mais ajoute ses propres attributs et méthodes.
 
 9) Définir l’opérateur de résolution de portée
-   > 
+   > L'opérateur de résolution de portée (::) est utilisé pour accéder à des méthodes / propriétés statiques (voir juste en dessous), ou pour accéder à des constantes et des méthodes d'une classe parente.
 
 10) Définir une méthode / propriété statique
-   > 
+   > Une méthode ou propriété statique appartient à la classe elle-même, plutôt qu'à une instance de la classe. On peut y accéder sans créer un objet de la classe.
+   > Par exemple, si on a une méthode statique dans une classe "Math", on peut l'appeler directement par Math::methode().
 
 11) Définir le polymorphisme en POO
-   > 
+   > Le polymorphisme permet aux objets de différentes classes de répondre à la même méthode. 
+   > Cela signifie que la même méthode peut faire des choses différentes selon l'objet qui l'utilise.
+
 
 12) Définir une méthode / classe abstraite ?
    > 
