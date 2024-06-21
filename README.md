@@ -230,13 +230,15 @@ exemple d’utilisation en PHP
    > Les principes fondamentaux de la POO incluent l'encapsulation, l'héritage et le polymorphisme. (voir plus bas)
 
 2) Qu’est-ce qu’une classe ? Comment la déclare-t-on ?
-   > Une classe est un ensemble d'attributs et se déclare avec un constructor.
+   > Une classe est un ensemble d'attributs et méthodes et se déclare avec un constructor.
+   > C'est comme un plan, ou un moule, qui permet de créer des objets.
 
 3) Qu’est-ce qu’un objet ?
-   > 
+   > Un objet est une instance d'une classe. Chacun avec ses propres attributs et pouvant utiliser les méthodes de sa classe.
 
 4) Définir la notion de propriété / attribut / méthode
-   > 
+   > Propriété/Attribut : Ce sont les données ou les caractéristiques d'un objet. Par exemple, une voiture (objet) peut avoir des propriétés comme la couleur, la marque et le modèle.
+   > Méthode : Ce sont les actions que l'on peut faire avec un objet. Par exemple, une voiture (objet) peut avoir des méthodes comme démarrer(), accélérer() ou freiner().
 
 5) Qu’est-ce que la visibilité d’une propriété ou d’une méthode ? Citer les différents types de visibilité
    > La visibilité indique où la propriété ou la méthode est accessible dans le code.
