@@ -148,7 +148,7 @@ exemple d’utilisation en PHP
    > Cascading Styles Sheet. Il permet quant à lui de modifier le style de chaque élément.
 
 3) Définir JavaScript
-   > JavaScript est un langage de programmation permettant d'ajouter des scripts pour rendre l'application plus responsive.
+   > JavaScript est un langage de programmation permettant d'ajouter des scripts pour rendre l'application plus réactive.
 
 4) Définir JSON. Dans quel contexte ce format est-il utilisé ?
    > JSON est une structure utilisée pour conserver des données, utilisé donc en base de donnée.
