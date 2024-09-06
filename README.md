@@ -533,17 +533,19 @@ contient l’intégralité des dépendances du projet ?
 
 ## Sécurité
 1) Qu’est-ce que l’injection SQL ? Comment s’en prémunir ?
->  Elle consiste à faire de l'insertion de code SQL non autorisé dans des requêtes SQL afin d'avoir accès à la base de données.
+>  Elle consiste à faire de l'insertion de code SQL non autorisé dans des requêtes SQL, généralement des formulaires, afin d'avoir accès à la base de données pour y mettre le dawa.
 > On s'en défend en utilisant prepare(), puis execute() afin de préparer un moule non modifiable de la requête SQL avant de l'exécuter en y insérant des variables qui seront au préalable filtrées.
 
 2) Qu’est-ce que la faille XSS ? Comment s’en prémunir ?
-> La faille XSS consiste à injecter du script dans les pages web.
+> La faille XSS (Cross-Site Scripting) consiste à injecter du script dans les pages web. par des formulaires, URL.
 
 3) Qu’est-ce que la faille CSRF ? Comment s’en prémunir ?
-> 
+> La faille CSRF (Cross-Site Request Forgery), consiste à se servir du jeton d'authentification qu'à eu un utilisateur connecté à notre site, et à lui faire remplir un formulaire d'informations sur un faux site, reçu par mail par exemple. En le remplissant, et en le validant, ou en cliquant simplement sur le bouton d'envoi de la fausse requete, ce formulaire enverra une toute autre requête malveillante et non commanditées par l'utilisateur (comme par exemple supprimer son compte) sur l'application.
 
 4) Définir l’attaque par force brute et l’attaque par dictionnaire
-> 
+> L'attaque par force brute consiste à tester des combinaisons de mot de passe totalement aléatoires, et en très grand nombre. On s'en protège en mettant un nombre d'essais maximum avant vérouillage du compte pendant un certain temps.
+> L'attaque par dictionnaire consiste à utiliser des combinaisons plus stratégiques, les mots de passe les plus populaires, comme ```azerty123``` ou ```admin```.
+On ne peut pas réellement s'en protéger, mais s'y prêter en mettant en pratique les conseils de la CNIL, avec des REGEX de 1 chiffre, 1 majuscule, 1 minuscule et 12 caractères minimum.
 
 5) Existe-t-il d’autres failles de sécurité ? Citer celles-ci et expliquer simplement leur comportement
 > 
