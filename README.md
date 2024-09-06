@@ -541,6 +541,7 @@ contient l’intégralité des dépendances du projet ?
 
 3) Qu’est-ce que la faille CSRF ? Comment s’en prémunir ?
 > La faille CSRF (Cross-Site Request Forgery), consiste à se servir du jeton d'authentification qu'à eu un utilisateur connecté à notre site, et à lui faire remplir un formulaire d'informations sur un faux site, reçu par mail par exemple. En le remplissant, et en le validant, ou en cliquant simplement sur le bouton d'envoi de la fausse requete, ce formulaire enverra une toute autre requête malveillante et non commanditées par l'utilisateur (comme par exemple supprimer son compte) sur l'application.
+> On s'en protège en ajoutant un token CSRF dans chaque formulaire afin de vérifier l'authenticité de la requête.
 
 4) Définir l’attaque par force brute et l’attaque par dictionnaire
 > L'attaque par force brute consiste à tester des combinaisons de mot de passe totalement aléatoires, et en très grand nombre. On s'en protège en mettant un nombre d'essais maximum avant vérouillage du compte pendant un certain temps.
