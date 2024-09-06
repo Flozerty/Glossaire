@@ -492,22 +492,25 @@ SELECT CONCAT(blabla1, blabla2) AS blablabla
 
 ## Symfony
 1) Qu’est-ce que Symfony ?
-> 
+> Symfony est un framwork back-end, c'est à dire qu'il est utilisé pour faciliter la conception et l'utilisation d'un site avec une base de donnée.
+> Symfony utilise Doctrine pour pouvoir interagir avec la base de donnée en DQL et plusieurs commandes sont disponibles au sein de symfony pour pouvoir faciliter la conception et les interactions avec la base de donnée, et suit un design pattern MVC, facilité également via des commandes symfony.
 
 2) Sur quel langage de programmation et design pattern repose Symfony ?
-> 
+> PHP est le langage prédominant de Symfony, il  utilise aussi twig comme moteur de template pourses vues.
+> Design pattern : MVC.
 
 3) Quelle est la dernière version en date de Symfony ?
-> 
+> Symfony 7.0, sortie en juillet 2024. Principalement, ses nouvelles fonctionnalités sont la simplification de gestion des assets avec la prise en charge des fichiers CSS et de leurs chemin d'accès, la possibilité de définir la langue (locale) pour le rendu des emails.
+> On a également l'amélioration de la gestion des erreurs de décodage JSON, et une amélioration de la sécurité pour l'usurpation d'identité des utilisateurs.
 
 4) Qu’est-ce qu’un bundle ?
-> 
+> Un bundle est une fonctionnalité toute prête, un module de plusieurs fichiers, incluant plusieurs fichiers, adaptable et pouvant être utilisée dans plus ou moins n'importe quel projet.
 
 5) Quel est le moteur de template utilisé par défaut dans Symfony ?
-> 
+> Twig
 
 6) Qu’est-ce qu’un ORM ? Quel est son utilité et comment s’appelle-t-il au sein de Symfony ?
-> 
+> (Object-Relational Mapping) C'est une technique qui permet de transformer les requêtes entre les SGBD (mySQL) et les objets utilisés en POO (les classes d'entités dans Symfony). Au lieu d'écrire une requête SQL 
 
 7) Qu’est-ce que l’injection de dépendances ? Quel est l’outil utilisé dans ce contexte et quel fichier 
 contient l’intégralité des dépendances du projet ?
