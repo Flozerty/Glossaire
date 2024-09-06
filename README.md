@@ -518,17 +518,18 @@ SELECT CONCAT(blabla1, blabla2) AS blablabla
 7) Qu’est-ce que l’injection de dépendances ? Quel est l’outil utilisé dans ce contexte et quel fichier 
 contient l’intégralité des dépendances du projet ?
 > L'injection de dépendances est faite par Composer dans Symfony.<br>
-> Le principe de l'injection de dépendances est de récupérer les différents composants de Symfony, ou autres bundles et bibliothèques PHP. La liste de toutes ces dépendances se trouve dans le fichier composer.json, et Composer va les télécharger et les intégrer dans le répertoir <vendor>.<br>
+> Le principe de l'injection de dépendances est de récupérer les différents composants de Symfony, ou autres bundles et bibliothèques PHP. La liste de toutes ces dépendances se trouve dans le fichier ```composer.json```, et Composer va les télécharger et les intégrer dans le répertoir ```vendor```.<br>
 > C'est pour cette raison qu'au départ d'un projet, on installe composer, et on fait la commance ```composer install```
 
 8) Que permet le bundle Maker au sein de Symfony ?
-> 
+> Il permet la création de code rapidement pour certains composants et classes courants dans Symfony.
+> Par exemple, la créaation d'un controller : ```symfony console make:controller```, ou encore ```symfony console make:form```
 
 9) Quel est le langage de requêtage exploité au sein d’un projet Symfony ?
-> 
+> DQL (Doctrine Query Language)
 
 10) Quel est le composant qui garantit l’authentification et l’autorisation des utilisateurs ?
-> 
+> le composant security gère tout l'aspect sécurité, comme l'authentification, les rôles et permissions des utilisateurs, ou encore la protection contre les failles fréquentes (CSRF, injection SQL) le fichier principal concernant la sécurité est dans ```config/packages/security.yaml```, et on trouve aussi des dossiers security dans ```templates```, et ```src```
 
 ## Sécurité
 1) Qu’est-ce que l’injection SQL ? Comment s’en prémunir ?
