@@ -510,11 +510,16 @@ SELECT CONCAT(blabla1, blabla2) AS blablabla
 > Twig
 
 6) Qu’est-ce qu’un ORM ? Quel est son utilité et comment s’appelle-t-il au sein de Symfony ?
-> (Object-Relational Mapping) C'est une technique qui permet de transformer les requêtes entre les SGBD (mySQL) et les objets utilisés en POO (les classes d'entités dans Symfony). Au lieu d'écrire une requête SQL 
+> (Object-Relational Mapping) C'est une technique qui permet de transformer les requêtes entre les SGBD (mySQL) et les objets utilisés en POO (les classes d'entités dans Symfony).<br>
+> Au lieu d'écrire une requête SQL, on utilise d'autres méthodes. Ainsi, on peut manipuler les données sous forme d'objets sans avoir à écrire de SQL brut, permettant aussi une interaction simplifiée
+(comme $obj->getId()) avec la base de données. Une entité correspond donc à une table dans la base de données.
+> l'ORM utilisé dans Symfony est Doctrine.
 
 7) Qu’est-ce que l’injection de dépendances ? Quel est l’outil utilisé dans ce contexte et quel fichier 
 contient l’intégralité des dépendances du projet ?
-> 
+> L'injection de dépendances est faite par Composer dans Symfony.<br>
+> Le principe de l'injection de dépendances est de récupérer les différents composants de Symfony, ou autres bundles et bibliothèques PHP. La liste de toutes ces dépendances se trouve dans le fichier composer.json, et Composer va les télécharger et les intégrer dans le répertoir <vendor>.<br>
+> C'est pour cette raison qu'au départ d'un projet, on installe composer, et on fait la commance ```composer install```
 
 8) Que permet le bundle Maker au sein de Symfony ?
 > 
