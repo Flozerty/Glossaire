@@ -145,7 +145,7 @@ exemple d’utilisation en PHP
    > HyperText Markup Language. Il sert à donner une structure au projet à l'aide de balises.
 
 2) Définir CSS
-   > Cascading Styles Sheet. Il permet quant à lui de modifier le style de chaque élément.
+   > Cascading Styles Sheet. Il permet quant à lui de modifier le style de chaque élément, et permet la mise en page du projet.
 
 3) Définir JavaScript
    > JavaScript est un langage de programmation permettant d'ajouter des scripts pour rendre l'application plus réactive.
@@ -154,7 +154,7 @@ exemple d’utilisation en PHP
    > JSON est une structure utilisée pour conserver des données, utilisé donc en base de donnée.
 
 5) Peut-on interpréter du Javascript côté serveur ? Si oui, comment ?
-   > Je pense que oui, en envoyant un exécutable en PHP via le JavaScript?
+   > Oui, le JS peut être interprété côté serveur grâce à l'environnement de node.js. 
 
 6) Qu’est-ce qu’un sélecteur CSS ?
    > une classe, identifiant, ou balsie permettant d'identifier un élément dans le HTML pour y attribuer des styles.
@@ -190,7 +190,8 @@ exemple d’utilisation en PHP
    > avant tous les paragraphes p , il y aura le texte "Hell yeah!"   
 
 16) Qu’est-ce que Bootstrap ? Donner d’autres exemples équivalent
-   > Un frameWork CSS 
+   > Un frameWork CSS
+   > D'autres exemples : Tailwind CSS, Foundation, Bulma.
 
 17) Quand un formulaire HTML est créé, quelles sont les 2 méthodes qui peuvent lui être associées ?
   Donner la différence entre ces 2 méthodes.
@@ -265,8 +266,8 @@ exemple d’utilisation en PHP
 
 11) Définir le polymorphisme en POO
    > Le polymorphisme permet aux objets de différentes classes de répondre à la même méthode. 
-   > Cela signifie que la même méthode peut faire des choses différentes selon l'objet qui l'utilise.
-
+   > Cela signifie que la même méthode peut être utilisée, et renvoyer un résultat différent selon l'objet qui l'utilise.
+   > Exemple: une méthode de l'```abstractController```, que l'on appelle dans nos autre classes du projet, peut être utilisée dans ces autres classes, par des objets différents, et donc renvoyer des résultats différents. 
 
 12) Définir une méthode / classe abstraite ?
    > Une classe abstraite ne peut pas être instanciée, c'est-à-dire qu'on ne peut pas créer d'objet à partir de cette classe. Elle sert simplement de modèle pour d'autres classes.
@@ -288,7 +289,7 @@ exemple d’utilisation en PHP
    ```
 
 16) Comment appelle-t-on en français les « getters » et les « setters » ?
-   > Les getters renvoient la valeur d'une propriété et les setters permettent de la changer.
+   > Les getters renvoient la valeur d'une propriété et les setters permettent de la changer. En français on les appelle les "accesseurs" et les "mutateurs".
 
 17) Qu’est-ce que la sérialisation en PHP ?
    > La sérialisation permet de stocker dans une variable des données complexes comme un tableau ou un objet, sous forme de chaines de caractères. C'est utilisé afin de les stocker en base de données (par exemple).<br>
@@ -366,7 +367,7 @@ b. ~~Planification, exécution et contrôle~~<br>
 c. ~~Création, modification et suppression~~<br>
 
 3) Qu’est-ce qu’un modèle conceptuel de données (MCD) en Merise ?
-> Le MCD se concentre sur la représentation des entités et les relations entre ces entités d'un projet.
+> Le MCD est la représentation la plus abstraite d'un système d'information, et se concentre sur la représentation des entités, ses attributs, ses relations entre ces entités et leurs cardinalités dans un projet.
 
 4) Qu’est-ce qu’un modèle logique de données (MLD) en Merise ?
 > Le MLD est une représentation plus concrète des données dans la base de donnée, qui prend en compte les spécificités rencontrées dans la gestion de bases de données. 
